@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+body{
+    background-image: url('./images/lapi.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+header{
+    height: 750px;
+    background-size: cover;
+    background-position: center;
+    background-image: url('./images/mind.jpg');
+}
+nav li{
+    display: inline-block;
+    padding: 40px;
+    float: right;
+    text-transform: uppercase;
+    margin-right: 25px;
+    margin-top: 0px;
+    list-style-type: none;
+    text-align: center;
+    color: grey;
+}
+h1{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 65px;
+    color: white;
+}
+h2{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+.images{
+    padding: 2px;    
+}
+footer{
+    height: auto;
+    width: 100%;
+    bottom: 0;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+nav li a:hover{
+    background-color: white;
+    padding: 10px;
+}
+p{
+    color: white;
+}
+/* .col {
+    display: table-cell;
+    padding: 16px;
+  }
+  @media only screen and (max-width: 600px) {
+    .col {
+      display: block;
+      width: 100%;
+    }
+  }
+  .col h3{
+    color: #000;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 400;
+    margin: 0 0 20px 0;
+    font-size: 2em;
+    margin: 0.67em 0;
+    margin-bottom: 30px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #000;
+    letter-spacing: 1px;
+    text-align: left;
+  } */
+  h3{
+      color: white;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 40%;
+    padding: 10px;
+    display: inline-block;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+    background-color: grey;
+  }
+  .contact{
+      color: white;
+      font-size: 20px;
+      padding: 20px;
+  }
