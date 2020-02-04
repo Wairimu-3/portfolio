@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
 body{
-    background-image: url('./images/lapi.jpeg');
+    background-image: url('./images/mouse.jpeg');
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -23,8 +23,11 @@ nav li{
     list-style-type: none;
     text-align: center;
     color: grey;
+    text-decoration: underline;
+    font-size: 30px ;
 }
 h1{
+    padding: opx;
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-family: 'Pacifico', cursive;
@@ -35,7 +38,7 @@ h1{
 h2{
     color: white;
     text-align: center;
-    font-size: 50px;
+    font-size: 45px;
 }
 .images{
     padding: 2px;    
@@ -49,7 +52,7 @@ footer{
     font-size: 30px;
 }
 nav li a:hover{
-    background-color: white;
+    background-color:white;
     padding: 10px;
 }
 p{
@@ -97,6 +100,7 @@ p{
   .container {
     padding: 2px 16px;
     background-color: grey;
+    font-size: 20px;
   }
   .contact{
       color: white;
