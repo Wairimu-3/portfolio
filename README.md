@@ -1,4 +1,4 @@
-# {POrtfolio}
+# {PORTFOLIO}
 #### {My personal portfolio}, {6/Feb/2020}
 #### By **{Margaret Kimani}**
 ## Description
