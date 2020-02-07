@@ -8,10 +8,10 @@ body{
     overflow-x: hidden;
 }
 header{
-    height: 500px;
+    height: 450px;
     background-size: cover;
     background-position: center;
-    background-image: url('./images/mind.jpg');
+    background-image: url('./images/learn-to-code-3.png');
 }
 nav li{
     display: inline-block;
@@ -22,7 +22,6 @@ nav li{
     margin-top: 0px;
     list-style-type: none;
     text-align: center;
-    color: grey;
     text-decoration: underline;
     font-size: 30px ;
 }
