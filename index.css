@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Lobster|Noto+Serif|Quattrocento&display=swap');
 body{
     background-image: url('./images/mouse.jpeg');
     background-size: cover;
@@ -6,6 +7,10 @@ body{
     background-repeat: no-repeat;
     overflow-y: scroll;
     overflow-x: hidden;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Quattrocento', serif;
 }
 header{
     height: 450px;
