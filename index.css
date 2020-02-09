@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Great+Vibes|Lobster|Noto+Serif|Quattrocento&display=swap');
+@media screen and (min-width: 480px) and (max-width: 767px) {
 body{
     background-image: url('./images/mouse.jpeg');
     background-size: cover;
@@ -118,3 +119,5 @@ p{
     color: white;
     font-size: 25px;
   }
+}
+  
