@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Great+Vibes|Lobster|Noto+Serif|Quattrocento&display=swap');
 body{
     background-image: url('./images/mouse.jpeg');
     background-size: cover;
@@ -6,9 +7,17 @@ body{
     background-repeat: no-repeat;
     overflow-y: scroll;
     overflow-x: hidden;
+    font-family: 'Noto Serif', serif;
+    font-family: 'Lobster', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Quattrocento', serif;
 }
 header{
+<<<<<<< HEAD
     height: 500px;
+=======
+    height: 450px;
+>>>>>>> 587e23875a45acb5b164998378bd8da5804ba337
     background-size: cover;
     background-position: center;
     background-image: url('./images/learn-to-code-3.png');
@@ -22,7 +31,6 @@ nav li{
     margin-top: 0px;
     list-style-type: none;
     text-align: center;
-    color: grey;
     text-decoration: underline;
     font-size: 30px ;
 }
@@ -114,3 +122,4 @@ p{
     color: white;
     font-size: 25px;
   }
+  
