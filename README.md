@@ -7,6 +7,8 @@ There is also links to my done projects.}
 ## Technologies Used
 {I have used Hyper Text Markup Language,Cascading Style Sheet and Java Script}
 ## links to other projects
+https://wairimu-3.github.io/portfolio/
+
 https://wairimu-3.github.io/Royals-/
 
 https://beryl01.github.io/My-Tailor/
